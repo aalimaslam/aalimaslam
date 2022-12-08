@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aalimaslam
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Creative Web Development
 - 🌱 I’m currently Learning JavaScript
 - 📫 Blog : https://aalimcodes.blogspot.com
 
