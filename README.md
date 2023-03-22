@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aalimaslam
 - 👀 I’m interested in Creative Web Development
-- 🌱 I’m currently Learning JavaScript
+- 🌱 I’m currently Learning Backend Web Development
 - 📫 Blog : https://aalimcodes.blogspot.com
 
 <!---
