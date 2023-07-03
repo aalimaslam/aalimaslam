@@ -4,10 +4,6 @@
 - 📫 Blog : https://aalimcodes.blogspot.com
 
 
-## Current Status
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)](https://github.com/yourusername/yourrepository)
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalimaslam&show_icons=true&count_private=true)
