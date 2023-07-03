@@ -10,14 +10,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalimaslam&show_icons=true&count_private=true)
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/aalimaslam/JavaScript-Problems): Added new feature
-2. 📦 Released version 1.0.0
-<!--END_SECTION:activity-->
 
 ## Programming Languages
 
