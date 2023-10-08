@@ -20,6 +20,7 @@
 
 Feel free to explore my repositories and contributions. Don't forget to give them a ⭐️ if you find them useful!
 
+[![An image of @aalimaslam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aalimaslam)](https://holopin.io/@aalimaslam)
 
 
 <!---
