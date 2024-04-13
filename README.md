@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aalimaslam
-- 👀 I’m interested in Creative Web Development
-- 🌱 I’m currently Learning Backend Web Development
+- 👀 I’m interested in learning things in depth
+- 🌱 I’m currently being better
 - 📫 Blog : https://aalimcodes.blogspot.com
 
 
@@ -8,10 +8,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalimaslam&show_icons=true&count_private=true)
 
-
 ## Programming Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalimaslam&layout=compact)
+
+## Github Trophies 
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=aalimaslam)
 
 ## Contact Me
 
