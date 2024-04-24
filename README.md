@@ -25,7 +25,7 @@ Feel free to explore my repositories and contributions. Don't forget to give the
 
 [![An image of @aalimaslam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aalimaslam)](https://holopin.io/@aalimaslam)
 
-
+[![](https://visitcount.itsvg.in/api?id=aalimaslam&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <!---
 aalimaslam/aalimaslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
