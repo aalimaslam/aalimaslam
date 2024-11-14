@@ -3,11 +3,6 @@
 - 🌱 I’m currently being better
 - 📫 Blog : https://aalimcodes.blogspot.com
 
-
-## Github Trophies 
-
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=aalimaslam)
-
 ## Contact Me
 
 - Email: aalimaslam@pm.me
