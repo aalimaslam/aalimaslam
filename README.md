@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aalimaslam
 - 👀 I’m interested in learning things in depth
 - 🌱 I’m currently being better
-- 📫 Blog : https://aalimcodes.blogspot.com
 
 ## Contact Me
 
