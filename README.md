@@ -41,7 +41,7 @@ Feel free to explore my repositories and contributions. Don't forget to give the
 [![](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)]()
 
 
-
+ <img src="https://github-profile-trophy.vercel.app/?username=aalimaslam&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
 
 <!---
 aalimaslam/aalimaslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
